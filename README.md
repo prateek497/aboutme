@@ -10,7 +10,7 @@
 </p>
 
 ## I'm a Full Stack Engineer.
-- 🔭 I’m currently working as a full stack developer at <b>EY</b>.
+- 🔭 I’m currently working as a full stack developer at <b>Microsoft</b>.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I love to listen music.
